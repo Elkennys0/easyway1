@@ -1,0 +1,2 @@
+# easyway1
+deploy
